@@ -1,16 +1,13 @@
 # fluttertest
 
-A new Flutter project.
+This project demonstrates
 
-## Getting Started
+Thai tone symbols not appearing on mobile web
+https://github.com/flutter/flutter/issues/115046
 
-This project is a starting point for a Flutter application.
+and text is default red on mobile browser which is possibly related to
 
-A few resources to get you started if this is your first Flutter project:
+[web]: Text within an HtmlElementView by default is red
+https://github.com/flutter/flutter/issues/115216
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

@@ -5,9 +5,9 @@ This project demonstrates
 Thai tone symbols not appearing on mobile web
 https://github.com/flutter/flutter/issues/115046
 
-and text is default red on mobile browser which is possibly related to
+and TextSpan is red on mobile browser and black on desktop web
 
-[web]: Text within an HtmlElementView by default is red
-https://github.com/flutter/flutter/issues/115216
+Default text color is red on mobile web but black elsewhere
+https://github.com/flutter/flutter/issues/115272
 
 
